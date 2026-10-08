@@ -1,4 +1,4 @@
-name: Deploy Angular to S3 demo
+name: Deploy Angular to S3
 
 on:
   push:
